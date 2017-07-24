@@ -11,5 +11,5 @@ Development, Wordpress
 ### [SBBS](https://www.sbbs.se/)
 Wordpress, 2nd line Support
 
-### [http://nicschröder.se/](http://nicschröder.se/)
+### [Nicschröder.se](http://nicschröder.se/)
 Design, Wordpress, Development
