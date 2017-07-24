@@ -1,8 +1,12 @@
 body {
   background: #24324C;
   color: #FFF;
+  font-family: 'Roboto', sans-serif;
 }
 .wrapper {
   max-width: 95%;
   margin: 0 auto;
+}
+h1, h2, h3, h4, h5 {
+  font-family: 'Roboto Slab', serif;
 }
