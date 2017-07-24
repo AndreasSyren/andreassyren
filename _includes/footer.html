@@ -1,5 +1,9 @@
 <div class="footer">
-  Footer
+  <div class="social-links">
+    {% for link in site.data.settings.social %}
+    <a href="{{ link.link }}" class="icon-{{ link.icon }}"></a>
+    {% endfor %}
+  </div>
 <div>
 </body>
 </html>
