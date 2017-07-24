@@ -2,3 +2,19 @@
 # General Site Settings
 
 title: andreassyren.se
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Andreas Syrén Portfolio'
+  rel-author: 'https://plus.google.com/u/0/106562978569921495349'
+  rel-publisher: 'https://plus.google.com/u/0/106562978569921495349'
+
+#-------------------------------
+# Contact Section
+
+social:
+- {icon: 'instagram', link: 'https://instagram.com/andreasjohansyren/'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/andreas-syr%C3%A9n-5b34a5a5/'}
