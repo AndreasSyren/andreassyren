@@ -1,4 +1,7 @@
-body {}
+body {
+  background: #FF5733;
+  color: #FFF;
+}
 .wrapper {
   max-width: 95%;
   margin: 0 auto;
