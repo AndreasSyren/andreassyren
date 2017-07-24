@@ -14,3 +14,10 @@ h1, h2, h3, h4, h5 {
   color: #FFF;
   font-weight: 600;
 }
+.icon-linkedin:before
+  display: block
+  content: ' '
+  background-image: url('includes/icons/linkedin.svg')
+  background-size: 28px 28px
+  height: 28px
+  width: 28px
